@@ -1,5 +1,6 @@
 <?php
 
+//Entre aspas deve ser colocado o token gerado para o seu bot
 $token = "";
 
 $user_id = $_GET['cont'];

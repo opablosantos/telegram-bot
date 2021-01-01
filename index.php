@@ -9,6 +9,7 @@
 <form method="get" action="p3bot.php">
     Digite sua mensagem: <input type="text" name="txt"/><br/>
     Selecione o contato: <select name="cont" id="cont">
+        <!--Dentro de value deve ser colocado o chat id-->
         <option value="">Contato 1</option>
         <option value="">Contato 2</option>
         <option value="">Contato 3</option>
